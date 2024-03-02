@@ -3,3 +3,4 @@ streamlit_folium
 geopandas
 folium
 shapely
+fiona
